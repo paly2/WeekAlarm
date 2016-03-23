@@ -1,0 +1,17 @@
+#define RC_settime 0xFFC23D
+#define RC_setalarm 0xFF906F
+#define RC_lesslight 0xFF22DD
+#define RC_morelight 0xFF02FD
+#define RC_noalarm 0xFFE01F
+//#define RC_minus 0xFFE01F
+//#define RC_plus 0xFFA857
+#define RC_0 0xFF6897
+#define RC_1 0xFF30CF
+#define RC_2 0xFF18E7
+#define RC_3 0xFF7A85
+#define RC_4 0xFF10EF
+#define RC_5 0xFF38C7
+#define RC_6 0xFF5AA5
+#define RC_7 0xFF42BD
+#define RC_8 0xFF4AB5
+#define RC_9 0xFF52AD
